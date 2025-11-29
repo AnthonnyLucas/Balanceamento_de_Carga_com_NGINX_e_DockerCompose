@@ -135,5 +135,3 @@ docker-compose down
 -----
 
 Este vídeo do YouTube pode te ajudar a acompanhar o processo de instalação do Docker no Windows 10, caso precise de um guia visual: [Como Instalar o Docker no Windows 10? Passo a passo. 2023](https://www.youtube.com/watch?v=kh1gkqCrNx4).
-
-http://googleusercontent.com/youtube_content/0
