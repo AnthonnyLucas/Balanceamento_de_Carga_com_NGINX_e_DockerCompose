@@ -1,7 +1,3 @@
-Sim, eu posso fornecer o **README.md completo e atualizado**, incluindo a seção detalhada sobre como baixar e instalar o Docker Desktop, que é a principal dependência do seu projeto.
-
-Este arquivo é ideal para ser publicado no seu GitHub:
-
 -----
 
 # 🚀 Projeto: Balanceamento de Carga com NGINX e Docker Compose
